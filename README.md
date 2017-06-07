@@ -9,5 +9,5 @@ QuickGuide folder contains .ipynb files for the examples in this [tutorial](http
 
 ## License
 
-This project is licensed under the BSD-3 revised License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the BSD 3-Clause License - see the [LICENSE.md](LICENSE.md) file for details
 
